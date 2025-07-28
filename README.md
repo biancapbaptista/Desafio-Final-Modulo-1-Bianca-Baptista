@@ -47,7 +47,7 @@ O trabalho de identificaçäo da rede gerou a lista de dispositivos abaixo.
 
 # Diagrama da Rede
 A partir do que foi encontrado, foi gerado o diagrama de rede abaixo.
-![Diagrama de Rede](image-16.png)
+![Diagrama de Rede](anexos/image-16.png)
 
 ## Diagnóstico (Achados)
 
